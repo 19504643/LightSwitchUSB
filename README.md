@@ -9,6 +9,13 @@ reason why a custom USB device is needed, since being a full USB device would
 allow the computer, and the software running on it, to tell if the LED is online
 or not. It also tells whether the computer is active on KVM or not.
 
+## Comapnion Software:
+
+* Firmware: https://github.com/SushiBits/LightSwitchUSB-Firmware
+* Host software for macOS: https://github.com/SushiBits/LightSwitchUSB-Mac
+* Host software for Windows
+* Host software for Linux
+
 ## License and Contact
 
 This project is licensed under the [3-clause BSD license](LICENSE.md).
